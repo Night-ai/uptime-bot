@@ -5,7 +5,7 @@ const moment = require("moment");
 require("moment-duration-format");
 const discord = require("discord.js");
 const client = new discord.Client({ disableEveryone: true });
-client.login("Nzc5MDk5MTU4MjExOTg1NDE4.X7bmog.07bNsNB19jVp8YyDO3o0WYPr3WM");
+client.login("token");
 const fetch = require("node-fetch");
 const fs = require('fs')
 
